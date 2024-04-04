@@ -154,7 +154,7 @@ function Track() {
 //   console.log(`Speed: ${speed ? speed : 0}m/s`);
 //   return (
 //     <LoadScript
-//       googleMapsApiKey="AIzaSyCyYGB0LyAIHmSjefJiYAPaLqzXZkrXM_M"
+//       googleMapsApiKey="Apkey "
 //        >
 //       <GoogleMap
 //         mapContainerStyle={containerStyle}
