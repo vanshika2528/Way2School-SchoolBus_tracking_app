@@ -93,7 +93,7 @@ function Track() {
 
   return (
     <LoadScript
-      googleMapsApiKey="AIzaSyB7yKi8vhPSVqAmnanKraxaWr0sDBRUtoQ"
+      googleMapsApiKey="YOUR_API_KEY"
     >
       <GoogleMap
         mapContainerStyle={containerStyle}
