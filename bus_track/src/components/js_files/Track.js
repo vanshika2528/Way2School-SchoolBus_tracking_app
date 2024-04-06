@@ -13,7 +13,7 @@ async function getCoordinates(address) {
     throw new Error('Address is not defined');
   }
   const encodedAddress = encodeURIComponent(address);
-  const response = await fetch(`https://us1.locationiq.com/v1/search?key=pk.52e5aa6adf77d3c6a16283b7ea859544&q=${encodedAddress}&format=json`);
+  const response = await fetch(`https://us1.locationiq.com/v1/search?key=pk.<ACCESS_TOKEN>&q=${encodedAddress}&format=json`);
   const data = await response.json();
   // console.log(data);
   if (data && data.length > 0) {
