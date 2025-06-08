@@ -9,3 +9,5 @@ when the bus speed exceeds the set limit. Developed with modern web technologies
 Way2School ensures user data security and privacy while providing an intuitive user
 experience.
 Blog: https://medium.com/@vdhipatel77/way2school-enhancing-school-bus-safety-d4e3411d885e
+
+video: https://drive.google.com/file/d/1DMpnZx25R1hOcY3u4-Sft5EdfqWI6_4J/view?usp=drive_link
